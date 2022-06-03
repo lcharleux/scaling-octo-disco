@@ -14,3 +14,16 @@ def add(a,b):
     a + b 
     """
     return a + b
+
+def mul(a,b):
+    """
+    Mul function:
+    
+    Inputs:
+    a: number
+    b: number
+    
+    Outputs:
+    a * b 
+    """
+    return a + 2    

@@ -1,2 +1,2 @@
 from . import data
-from .data import add
+from .data import add, mul
