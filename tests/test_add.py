@@ -1,4 +1,7 @@
+import numpy as np
 from sod import add
 
 def test_add():
-    assert add(2,2) == 4
+    for i in range(100):
+        a, b = np.random.rand(2)
+        assert add(a,b) == a+b

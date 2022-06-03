@@ -26,4 +26,4 @@ def mul(a,b):
     Outputs:
     a * b 
     """
-    return a + 2    
+    return a *b    
