@@ -26,4 +26,30 @@ def mul(a,b):
     Outputs:
     a * b 
     """
-    return a + 2    
+    return a * b    
+
+def sub(a,b):
+    """
+    Sub function:
+    
+    Inputs:
+    a: number
+    b: number
+    
+    Outputs:
+    a - b 
+    """    
+    return a - b 
+
+def exp(a,b):
+    """
+    Exp function:
+    
+    Inputs:
+    a: number
+    b: number
+    
+    Outputs:
+    a ** b 
+    """    
+    return a**b 
