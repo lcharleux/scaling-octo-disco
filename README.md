@@ -4,4 +4,6 @@
 Hello it's me !!
 I am here
 
-Wow c'est fou quand même
+Yes, let's go ! ! !
+
+C'est fou
